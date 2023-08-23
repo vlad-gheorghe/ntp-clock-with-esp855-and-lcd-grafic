@@ -5,3 +5,5 @@ adapted from https://nicuflorica.blogspot.com/2023/08/ceas-ntp-pe-afisaj-monocro
 
 
 ![poza](https://github.com/vlad-gheorghe/ntp-clock-with-esp855-and-lcd-grafic/blob/main/IMG_20230823_101353.jpg);
+
+![poza](https://github.com/vlad-gheorghe/ntp-clock-with-esp855-and-lcd-grafic/blob/main/IMG_20230823_114700.jpg);
